@@ -60,23 +60,3 @@ This project aims to build a robust classification model that can effectively di
 Each model was evaluated based on the above metrics to compare their performance in phishing URL detection.
 
 ---
-
-## 📈 Power BI Dashboard (Optional Component)
-
-An interactive Power BI dashboard was developed to visualize:
-
-- Distribution of legitimate vs. phishing URLs
-- Feature importance across models
-- Model performance comparison
-- Prediction interface (optional: input URL and get classification)
-
-*(Screenshots or .pbix file can be added here if included)*
-
----
-
-## 🚀 How to Run the Project
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/Classification-of-URL-as-Phishing-and-Legitimate-using-different-ML-and-DL-models.git
-cd Classification-of-URL-as-Phishing-and-Legitimate-using-different-ML-and-DL-models
